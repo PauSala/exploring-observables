@@ -1,0 +1,37 @@
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  font-size: calc(10px + 1vmin);
+  color: white;
+  padding: 0.5em;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+.container {
+  margin: 3em;
+}
+
+.App-button {
+  font-size: 0.6em;
+  display: flex;
+  flex-direction: column;
+  align-content: flex-start;
+  flex-wrap: wrap;
+  margin-bottom: 2em;
+  background-color: #031627;
+  padding: 0.5em;
+  border: none;
+  border-radius: 5px;
+  color: rgb(255, 255, 255);
+  width: 80%;
+  box-shadow: 0px 0px 0px 0px rgba(0, 225, 255, 0.7), 0px 0px 0px 0px rgba(0, 225, 255, 0.7), 0px 0px 3px 0px rgba(0, 225, 255, 0.7), 2px 2px 4px 0px rgba(0, 225, 255, 0.7);
+}
+
+.restart-button {
+  border: none;
+  padding: 1em;
+  border-radius: 5px;
+}
